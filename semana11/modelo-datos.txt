@@ -1,0 +1,26 @@
+Modelo de datos para una plataforma comunitaria
+Entidad 1: Vecino
+
+Campos principales:
+
+2463
+Aldemar Francisco Hidalgo Fernandez
+3138954789
+Barrio espina
+aldemarfranciscoh@gmail.com
+
+Propósito de la información:
+Registrar la información básica de los vecinos para mantener una comunicación organizada y facilitar su participación en las actividades de la comunidad.
+
+Entidad 2: Evento Comunitario
+
+Campos principales:
+
+28/30
+Fiesta Benvenida
+llegada de mi hermano
+24/06/2027
+residencia villa florez
+
+Propósito de la información:
+Guardar la información de cada evento comunitario para organizar las actividades, informar a los participantes y llevar un control de los eventos realizados.
